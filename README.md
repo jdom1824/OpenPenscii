@@ -69,4 +69,4 @@ For a more complex example, the following SVG includes multiple geometric shapes
 </svg>
 ```
 
-  <img src="https://github.com/jdom1824/OpenPenscii/blob/main/examples/output_image_one_one_1.png" alt="Visual output of the advanced SVG example" width="640" height="640">
+  <img src="https://github.com/jdom1824/OpenPenscii/blob/main/examples/output_image_one_one_1.png" alt="Visual output of the advanced SVG example" width="540" height="540">
