@@ -28,7 +28,6 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
 </svg>
 ```
 </td>
-
 <td>
 <td>
   <img src="https://github.com/jdom1824/OpenPenscii/blob/main/examples/output_image.png" alt="Descripción de la imagen">
@@ -36,4 +35,3 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
 </td>
  </tr>
 </table>
-```
