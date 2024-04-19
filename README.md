@@ -74,7 +74,7 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
 </td>
 <td>
 <td>
-  <img src="https://github.com/jdom1824/OpenPenscii/blob/main/examples/one-one.svg" alt="Descripción de la imagen">
+  <img src="https://github.com/jdom1824/OpenPenscii/blob/main/examples/output_image_one_one_1.png" alt="Descripción de la imagen">
 </td>
 </td>
  </tr>
