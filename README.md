@@ -4,6 +4,11 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
 
 ## Basic SVG
 
+<table>
+  <tr>
+    <!-- Columna para el código SVG -->
+    <td>
+
 ```xml
 <svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
     <rect width="320" height="320" fill="#121212"/>
@@ -21,4 +26,12 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
         <tspan x="190" dy="-35" fill="#7f766d">*</tspan>
     </text>
 </svg>
+```
+</td>
+<!-- Columna para la imagen -->
+<td>
+```
+</td>
+ </tr>
+</table>
 ```
