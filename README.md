@@ -2,7 +2,7 @@
 
 is a creative exploration into the use of SVG (Scalable Vector Graphics) to produce dynamic, programmable art pieces. The art piece included in this project is designed with simple geometric shapes and colors that aim to provide a visually appealing digital experience.
 
-## Visual Representation
+## Basic SVG
 
 ```xml
 <svg viewBox="0 0 320 320" xmlns="http://www.w3.org/2000/svg">
@@ -21,4 +21,4 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
         <tspan x="190" dy="-35" fill="#7f766d">*</tspan>
     </text>
 </svg>
-```xml
+```
