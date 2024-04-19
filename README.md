@@ -28,9 +28,11 @@ is a creative exploration into the use of SVG (Scalable Vector Graphics) to prod
 </svg>
 ```
 </td>
-![Descripción de la imagen](https://github.com/jdom1824/OpenPenscii/blob/main/examples/output_image.png)
+
 <td>
-```
+<td>
+  <img src="https://github.com/jdom1824/OpenPenscii/blob/main/examples/output_image.png" alt="Descripción de la imagen">
+</td>
 </td>
  </tr>
 </table>
